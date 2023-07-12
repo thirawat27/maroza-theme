@@ -12,7 +12,7 @@ Maroza, a theme that fits everyone.
 
  - Open Extensions sidebar panel in VS Code. View → Extensions
  - Search for Maroza Theme
- - Click Install to install it.
+ - Click Install to install it.m
  - Click Reload to reload your editor
  - Code > Preferences > Color Theme > Maroza Theme
 
