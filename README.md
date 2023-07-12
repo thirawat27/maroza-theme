@@ -1,20 +1,27 @@
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/thirawat27)
 
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/thirawat27)
+[![Market Place VScode](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://marketplace.visualstudio.com/items?itemName=thirawat27.maroza-theme)
 
-# Maroza Theme
-A dark theme for Visual Studio Code.
+## Maroza Theme 🌸
+
+Maroza, a theme that fits everyone.
 
 ![preview](/image/preview.png)
 
-## Working with Markdown
+## Installation
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+ - Open Extensions sidebar panel in VS Code. View → Extensions
+ - Search for Maroza Theme
+ - Click Install to install it.
+ - Click Reload to reload your editor
+ - Code > Preferences > Color Theme > Maroza Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## Contact Information
+## Support
 
-* [Email](Thuthirawas@gmail.com)
-**Enjoy!**
+For support, email thunthirawas@gmail.com 
+
+
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
