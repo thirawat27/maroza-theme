@@ -1,12 +1,12 @@
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/thirawat27)
 
 [![Market Place VScode](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://marketplace.visualstudio.com/items?itemName=thirawat27.maroza-theme)
 
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/thirawat27)
 ## Maroza Theme 🌸
 
 Maroza, a theme that fits everyone.
 
-![preview](/image/preview.png)
+![preview](/image/preview.jpg)
 
 ## Installation
 
