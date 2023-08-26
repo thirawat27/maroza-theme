@@ -6,7 +6,7 @@
 
 Maroza, a theme that fits everyone.
 
-![preview](/image/preview.jpg)
+![preview](/image/preview.png)
 
 ## Installation
 
