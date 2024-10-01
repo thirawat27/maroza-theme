@@ -1,3 +1,14 @@
+
+<div align="center" >
+    <img src="/image/maroza.png" alt="icon" width="250" height="250">
+</div>
+
+<h1 align="center">Maroza Theme 🌸</h1>
+
+<p align="center">
+Maroza is a beautifully designed theme crafted to suit everyone. Whether you're a developer or a designer, Maroza provides a calm and modern color palette that enhances your coding experience with its soothing tones.
+</p><br>
+
 <div align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=thirawat27.maroza-theme">
         <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" alt="Marketplace VScode">
@@ -7,15 +18,7 @@
     </a>
 </div>
 
-<div align="center" >
-    <img src="/image/maroza.png" alt="icon" width="300" height="300" style="border-radius: 50%; box-shadow: 0 0 30px 10px rgba(221, 110, 255, 0.7), 0 0 60px 20px rgba(255, 175, 189, 0.5);">
-</div>
-
-<h1 align="center">Maroza Theme 🌸</h1>
-
-<p align="center">
-Maroza is a beautifully designed theme crafted to suit everyone. Whether you're a developer or a designer, Maroza provides a calm and modern color palette that enhances your coding experience with its soothing tones.
-</p>
+<br>
 
 ![preview](/image/preview.png)
 
