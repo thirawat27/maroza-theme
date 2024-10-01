@@ -10,7 +10,7 @@ Maroza is a beautifully designed theme crafted to suit everyone. Whether you're 
 </p><br>
 
 <div align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=thirawat27.maroza-theme" style="margin-right: 20px;">
+    <a href="https://marketplace.visualstudio.com/items?itemName=thirawat27.maroza-theme" style="margin-left: 20px;">
         <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" alt="Marketplace VScode">
     </a>
     <a href="https://github.com/thirawat27">
