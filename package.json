@@ -8,9 +8,9 @@
   "publisher": "thirawat27",
   "displayName": "Maroza Theme",
   "description": "Maroza, a theme that fits everyone.",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "engines": {
-    "vscode": ">=15.0.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"

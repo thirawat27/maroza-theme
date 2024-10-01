@@ -2,9 +2,17 @@
 [![Market Place VScode](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://marketplace.visualstudio.com/items?itemName=thirawat27.maroza-theme)
 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/thirawat27)
-## Maroza Theme 🌸
 
-Maroza, a theme that fits everyone.
+![preview](/image/preview.png)
+
+<div align="center">
+<img src="/image/maroza.png" alt="icon" width="300" height="300">
+</div>
+
+
+<h2 align="center"> Maroza Theme 🌸 </h2>
+
+Maroza is a beautifully designed theme crafted to suit everyone. Whether you're a developer or a designer, Maroza provides a calm and modern color palette that enhances your coding experience with its soothing tones.
 
 ![preview](/image/preview.png)
 
@@ -19,9 +27,11 @@ Maroza, a theme that fits everyone.
 
 ## Support
 
-For support, email thunthirawas@gmail.com 
+For any questions or issues, feel free to reach out via email at thunthirawas@gmail.com.
 
 
 ## License
 
-[MIT License](https://choosealicense.com/licenses/mit/)
+This theme is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+
